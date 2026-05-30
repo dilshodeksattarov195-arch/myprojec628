@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercarse",
+        "uuid": 3219128,
+        "checksum": "0npwjpo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
